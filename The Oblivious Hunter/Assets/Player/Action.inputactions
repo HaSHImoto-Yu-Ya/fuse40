@@ -1,0 +1,90 @@
+{
+    "name": "Action",
+    "maps": [
+        {
+            "name": "move",
+            "id": "32ea15ec-d508-46f8-a9a6-6c964d588cf7",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "fc9a790a-eef6-4ab9-aae7-64bf39daaa36",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "47f6aac3-39d7-45ae-acd5-cdd6008343d2",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Jump",
+            "id": "1764e87b-002b-4b10-89ea-f8efa606e8ea",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "5d2a5041-2813-43a7-bf17-62641d843b25",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "970e2819-cd7f-4dcf-96d0-6cdf805db440",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Attack",
+            "id": "44f6d05a-9457-49f8-ac45-e9192ff1e800",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "a5b4d6e4-9df5-44d9-8c04-8ad46dc0b38f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4590cbf6-ea36-4a22-bcd3-6fe1660af558",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
